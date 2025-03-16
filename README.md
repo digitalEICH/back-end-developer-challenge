@@ -1,4 +1,4 @@
-# DigitalH Full-Stack Challenge
+# DigitalH Back-end Challenge
 
 ## 🎉 Welcome to the DigitalH Challenge!
 
@@ -27,7 +27,7 @@ Your task is to build a full-stack application that allows users to **add their 
 - [ ] **Retrieve all users** from the database.
 - [ ] **Retrieve a single user** by their ID.
 - [ ] **Use Express.js API routes** to handle CRUD operations.
-- [ ] **Validate request data**
+- [ ] **Validate request data**.
 
 ### Frontend (Next.js + Shadcn UI)
 - [ ] **Home Page:**
@@ -47,7 +47,7 @@ Your task is to build a full-stack application that allows users to **add their 
 | Method | Endpoint       | Description              |
 |--------|---------------|--------------------------|
 | POST   | `/users`       | Create a new user        |
-| PUT    | `/users/:id`       | Update a user            |
+| PUT    | `/users/:id`   | Update a user            |
 | GET    | `/users`       | Get all users            |
 | GET    | `/users/:id`   | Get a user by ID         |
 
@@ -55,12 +55,12 @@ Your task is to build a full-stack application that allows users to **add their 
 
 1. Push your code to a **public GitHub repository**.
 2. Deploy your code and provide a live demo.
-2. Share the repository link in your application.
-3. Ensure your code is **well-structured, clean, and documented**.
+3. Share the repository link in your application.
+4. Ensure your code is **well-structured, clean, and documented**.
 
 ## 🎖️ Bonus Points
 
-- **Deploy the project** on Vercel and Railway (or any cloud service) 
+- **Deploy the project** on Vercel and Railway (or any cloud service).
 - **Make the UI fun & engaging!** Add animations, avatars, and micro-interactions.
 - **Implement pagination** for users list.
 - **Write unit tests** using Jest.
@@ -68,7 +68,7 @@ Your task is to build a full-stack application that allows users to **add their 
 
 ## ⏳ Time Limit
 
-This challenge should take around 4 hours to complete.
+This challenge should take around **4 hours** to complete.
 
 You have **5 days** to complete the challenge. If you need an extension, feel free to reach out.
 
